@@ -1,2 +1,3 @@
 # demo-first
-only demo 
+only demo .
+
